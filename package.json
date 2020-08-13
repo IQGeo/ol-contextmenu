@@ -1,17 +1,17 @@
 {
-  "name": "ol-contextmenu",
+  "name": "@iqgeo/ol-contextmenu",
   "version": "4.0.1",
   "description": "Custom Context Menu for Openlayers",
   "main": "dist/ol-contextmenu.js",
   "author": "Jonatas Walker",
-  "homepage": "https://github.com/jonataswalker/ol-contextmenu",
+  "homepage": "https://github.com/IQGeo/ol-contextmenu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jonataswalker/ol-contextmenu.git"
+    "url": "git://github.com/IQGeo/ol-contextmenu.git"
   },
   "bugs": {
-    "url": "https://github.com/jonataswalker/ol-contextmenu/issues"
+    "url": "https://github.com/IQGeo/ol-contextmenu/issues"
   },
   "files": [
     "dist/"
